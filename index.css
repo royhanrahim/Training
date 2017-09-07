@@ -1,0 +1,13 @@
+#background{
+	background-color: skyblue;
+	padding: 20px;
+	margin-top: 70px;
+	border-radius: 20px;
+	width: 50%;
+}
+#one{
+	margin:0 auto;
+}
+#buttonOne{
+	background-color: #fff;
+}
